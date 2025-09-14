@@ -1,0 +1,10 @@
+test,detail,value
+decision,used_anova,False
+levene_p,levene_p,0.4875268858868478
+normality,Furniture,0.9525137936779777
+normality,Office Supplies,0.9554324550711578
+normality,Technology,0.9528262570867333
+Kruskal-Wallis,stat_or_p,0.2059575634501533
+posthoc_mw_bonf,Furniture_vs_Office Supplies,1.0
+posthoc_mw_bonf,Furniture_vs_Technology,0.24158379383160306
+posthoc_mw_bonf,Office Supplies_vs_Technology,0.7542606592395419
